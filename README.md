@@ -1,5 +1,4 @@
 # The ATLAS Knowledge Graph
-
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14058143.svg)](https://doi.org/10.5281/zenodo.14058143)
 
 The [**ATLAS Ontology**](https://w3id.org/dh-atlas/) has been implemented to describe the metadata of selected pilot projects and their related entities.  
