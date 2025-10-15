@@ -55,4 +55,4 @@ This is the **initial version** of the ATLAS Knowledge Graph, consisting of **Tu
 
 Provided data are based on **16 selected pilot Research Products** among Digital Scholarly Editions, Text Collections, Software, Ontologies, and Linked Open Data, together with their contextual entities (Research Projects, Organizations, People, Websites, and Computer Programs).
 
-Additionally, some [demo files](releases/v1.0/knowledge_graph_demo/) have been curated to illustrate the structure of the main entities within this model.
+Additionally, some [demo files](releases/v1.0/knowledge-graph-demo/) have been curated to illustrate the structure of the main entities within this model.
