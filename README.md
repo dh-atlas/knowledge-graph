@@ -8,7 +8,8 @@ This effort has resulted in a Knowledge Graph, currently available as a [compres
 
 ## 🆕 Current Version
 
-- **Version:** 2.0  
+- **Version:** 2.0
+- **Version DOI:** [https://doi.org/10.5281/zenodo.17357930](https://doi.org/10.5281/zenodo.17357930)
 - **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ### What's New
